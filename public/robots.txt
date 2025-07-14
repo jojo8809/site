@@ -1,0 +1,63 @@
+
+# Multi-Search Engine Robots.txt
+User-agent: *
+Allow: /
+Disallow: /admin/
+Disallow: /private/
+Disallow: /*.json$
+Disallow: /*?*print=
+
+# Google
+User-agent: Googlebot
+Allow: /
+Crawl-delay: 1
+
+# Bing
+User-agent: Bingbot
+Allow: /
+Crawl-delay: 1
+
+# Yahoo
+User-agent: Slurp
+Allow: /
+Crawl-delay: 1
+
+# DuckDuckGo
+User-agent: DuckDuckBot
+Allow: /
+Crawl-delay: 1
+
+# Brave
+User-agent: BraveBot
+Allow: /
+Crawl-delay: 1
+
+# Yandex
+User-agent: YandexBot
+Allow: /
+Crawl-delay: 1
+
+# Baidu
+User-agent: Baiduspider
+Allow: /
+Crawl-delay: 1
+
+# Sitemaps
+Sitemap: https://justlegalsolutions.org/sitemap.xml
+Sitemap: https://justlegalsolutions.org/api/sitemap
+
+# Voice Search Optimization - Mon Jul 14 01:15:30 UTC 2025
+# Optimized for Alexa, Google Assistant, Siri
+
+# Competitive Intelligence Update - Mon Jul 14 01:24:03 UTC 2025
+# Market leader in Oklahoma process serving
+# Last updated: Mon Jul 14 01:44:44 UTC 2025
+
+# AI Search Optimization - Mon Jul 14 01:47:42 UTC 2025
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
+# Last updated: Mon Jul 14 02:36:26 UTC 2025
+# Last updated: Mon Jul 14 02:41:42 UTC 2025
+# Last updated: Mon Jul 14 03:26:45 UTC 2025
