@@ -1,18 +1,18 @@
 {
-  "timestamp": "2025-09-21T01:28:14.713Z",
+  "timestamp": "2025-09-21T12:35:20.258Z",
   "competitorCount": 5,
   "averageScore": 1,
   "topCompetitor": {
-    "name": "ServeNow.com",
-    "url": "https://servenow.com",
-    "timestamp": "2025-09-21T01:28:12.711Z",
+    "name": "TulsaProcessServers.com",
+    "url": "https://tulsaprocessservers.com",
+    "timestamp": "2025-09-21T12:32:55.121Z",
     "factors": {
       "keywords": {
         "score": 0,
         "density": {
-          "same day process serving": "0.00",
-          "emergency process server": "0.00",
-          "rush legal service": "0.00"
+          "process server tulsa": "0.00",
+          "legal document delivery": "0.00",
+          "tulsa county process serving": "0.00"
         }
       },
       "contentLength": {
@@ -32,16 +32,16 @@
     ]
   },
   "weakestCompetitor": {
-    "name": "ServeNow.com",
-    "url": "https://servenow.com",
-    "timestamp": "2025-09-21T01:28:12.711Z",
+    "name": "TulsaProcessServers.com",
+    "url": "https://tulsaprocessservers.com",
+    "timestamp": "2025-09-21T12:32:55.121Z",
     "factors": {
       "keywords": {
         "score": 0,
         "density": {
-          "same day process serving": "0.00",
-          "emergency process server": "0.00",
-          "rush legal service": "0.00"
+          "process server tulsa": "0.00",
+          "legal document delivery": "0.00",
+          "tulsa county process serving": "0.00"
         }
       },
       "contentLength": {
@@ -61,6 +61,7 @@
     ]
   },
   "opportunities": [
+    "TulsaProcessServers.com has weak SEO (1/100)",
     "ServeNow.com has weak SEO (1/100)"
   ],
   "threats": []
