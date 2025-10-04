@@ -2,31 +2,8 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2025-10-04T01:15:10.112Z",
-    "factors": {
-      "keywords": {
-        "score": 0,
-        "density": {
-          "process server tulsa": "0.00",
-          "legal document delivery": "0.00",
-          "tulsa county process serving": "0.00"
-        }
-      },
-      "contentLength": {
-        "score": 10,
-        "wordCount": 1
-      },
-      "schema": {
-        "score": 0,
-        "hasSchema": false
-      }
-    },
-    "score": 1,
-    "recommendations": [
-      "Increase keyword density and placement",
-      "Expand content length to 300-2000 words",
-      "Implement structured data and schema markup"
-    ]
+    "error": "Client network socket disconnected before secure TLS connection was established",
+    "score": 0
   },
   {
     "name": "OklahomaProcessServing.com",
@@ -49,7 +26,7 @@
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2025-10-04T01:17:34.762Z",
+    "timestamp": "2025-10-04T12:34:26.064Z",
     "factors": {
       "keywords": {
         "score": 0,
