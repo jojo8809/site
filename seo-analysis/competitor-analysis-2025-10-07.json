@@ -2,31 +2,8 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2025-10-07T01:18:35.818Z",
-    "factors": {
-      "keywords": {
-        "score": 0,
-        "density": {
-          "process server tulsa": "0.00",
-          "legal document delivery": "0.00",
-          "tulsa county process serving": "0.00"
-        }
-      },
-      "contentLength": {
-        "score": 10,
-        "wordCount": 1
-      },
-      "schema": {
-        "score": 0,
-        "hasSchema": false
-      }
-    },
-    "score": 1,
-    "recommendations": [
-      "Increase keyword density and placement",
-      "Expand content length to 300-2000 words",
-      "Implement structured data and schema markup"
-    ]
+    "error": "write EPROTO 40FC8CC7BD7F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n",
+    "score": 0
   },
   {
     "name": "OklahomaProcessServing.com",
@@ -49,7 +26,7 @@
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2025-10-07T01:21:00.117Z",
+    "timestamp": "2025-10-07T12:39:49.776Z",
     "factors": {
       "keywords": {
         "score": 0,
