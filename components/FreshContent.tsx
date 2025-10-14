@@ -5,13 +5,13 @@ export default function FreshContent() {
   return (
     <>
     
-{/* Generated: Monday, October 13, 2025 */}
-<div className="fresh-content" data-updated="2025-10-13T09:15:38.843Z">
+{/* Generated: Tuesday, October 14, 2025 */}
+<div className="fresh-content" data-updated="2025-10-14T09:14:33.108Z">
   <div className="urgency-banner bg-red-50 border border-red-200 p-4 mb-6">
     <div className="flex items-center">
       <span className="text-red-500 text-xl mr-2">⚡</span>
       <div>
-        <div className="font-semibold text-red-800">Live Update - Monday, October 13, 2025</div>
+        <div className="font-semibold text-red-800">Live Update - Tuesday, October 14, 2025</div>
         <div className="text-sm text-red-600">Early morning process serving available - get ahead of your legal schedule!</div>
       </div>
     </div>
@@ -19,7 +19,7 @@ export default function FreshContent() {
   
   <div className="live-stats grid grid-cols-4 gap-4 mb-8">
     <div className="text-center">
-      <div className="text-2xl font-bold text-blue-600">3,504</div>
+      <div className="text-2xl font-bold text-blue-600">3,507</div>
       <div className="text-sm text-gray-600">Documents Served</div>
     </div>
     <div className="text-center">
