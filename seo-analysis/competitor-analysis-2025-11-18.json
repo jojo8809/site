@@ -2,7 +2,7 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2025-11-18T01:24:59.175Z",
+    "timestamp": "2025-11-18T12:39:34.717Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -43,7 +43,7 @@
   {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "timestamp": "2025-11-18T01:27:21.689Z",
+    "timestamp": "2025-11-18T12:41:54.224Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -72,7 +72,7 @@
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2025-11-18T01:27:23.774Z",
+    "timestamp": "2025-11-18T12:41:56.270Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -84,7 +84,7 @@
       },
       "contentLength": {
         "score": 10,
-        "wordCount": 1
+        "wordCount": 3
       },
       "schema": {
         "score": 0,
