@@ -46,31 +46,3 @@ Crawl-delay: 1
 Sitemap: https://justlegalsolutions.org/sitemap.xml
 Sitemap: https://justlegalsolutions.org/sitemap-images.xml
 Sitemap: https://justlegalsolutions.org/sitemap-news.xml
-
-# Voice Search Optimization - Wed Nov 19 01:20:09 UTC 2025
-# Optimized for Alexa, Google Assistant, Siri
-
-# AI Search Optimization - Wed Nov 19 01:47:13 UTC 2025
-User-agent: ChatGPT-User
-Allow: /
-User-agent: Claude-Web
-Allow: /
-# Voice Search Keywords Updated: Wed Nov 19 01:50:24 UTC 2025
-# Oklahoma process server, legal document delivery
-# Same day service, licensed process servers
-
-# Competitive Intelligence Update - Wed Nov 19 02:02:25 UTC 2025
-# Market leader in Oklahoma process serving
-
-# AI Assistant Integration - Wed Nov 19 04:15:35 UTC 2025
-# Optimized for ChatGPT, Alexa, Google Assistant
-# Last updated: Wed Nov 19 06:16:22 UTC 2025
-
-# AI Search Optimization - Wed Nov 19 06:33:32 UTC 2025
-User-agent: ChatGPT-User
-Allow: /
-User-agent: Claude-Web
-Allow: /
-
-# AI Assistant Integration - Wed Nov 19 08:16:45 UTC 2025
-# Optimized for ChatGPT, Alexa, Google Assistant
