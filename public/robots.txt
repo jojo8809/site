@@ -49,3 +49,9 @@ Sitemap: https://justlegalsolutions.org/sitemap-news.xml
 
 # Voice Search Optimization - Sat Dec 13 16:20:51 UTC 2025
 # Optimized for Alexa, Google Assistant, Siri
+
+# AI Search Optimization - Sat Dec 13 18:30:08 UTC 2025
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
