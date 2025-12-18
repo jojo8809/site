@@ -1,23 +1,23 @@
 {
-  "timestamp": "2025-12-18T01:28:59.928Z",
+  "timestamp": "2025-12-18T12:43:30.691Z",
   "competitorCount": 5,
   "averageScore": 1,
   "topCompetitor": {
-    "name": "ProcessServerDirectory.com",
-    "url": "https://processserverdirectory.com",
-    "timestamp": "2025-12-18T01:28:55.790Z",
+    "name": "TulsaProcessServers.com",
+    "url": "https://tulsaprocessservers.com",
+    "timestamp": "2025-12-18T12:41:02.609Z",
     "factors": {
       "keywords": {
         "score": 0,
         "density": {
-          "find process server": "0.00",
-          "hire process server": "0.00",
-          "local process serving": "0.00"
+          "process server tulsa": "0.00",
+          "legal document delivery": "0.00",
+          "tulsa county process serving": "0.00"
         }
       },
       "contentLength": {
         "score": 10,
-        "wordCount": 2
+        "wordCount": 1
       },
       "schema": {
         "score": 0,
@@ -32,21 +32,21 @@
     ]
   },
   "weakestCompetitor": {
-    "name": "ProcessServerDirectory.com",
-    "url": "https://processserverdirectory.com",
-    "timestamp": "2025-12-18T01:28:55.790Z",
+    "name": "TulsaProcessServers.com",
+    "url": "https://tulsaprocessservers.com",
+    "timestamp": "2025-12-18T12:41:02.609Z",
     "factors": {
       "keywords": {
         "score": 0,
         "density": {
-          "find process server": "0.00",
-          "hire process server": "0.00",
-          "local process serving": "0.00"
+          "process server tulsa": "0.00",
+          "legal document delivery": "0.00",
+          "tulsa county process serving": "0.00"
         }
       },
       "contentLength": {
         "score": 10,
-        "wordCount": 2
+        "wordCount": 1
       },
       "schema": {
         "score": 0,
@@ -61,6 +61,7 @@
     ]
   },
   "opportunities": [
+    "TulsaProcessServers.com has weak SEO (1/100)",
     "ProcessServerDirectory.com has weak SEO (1/100)",
     "ServeNow.com has weak SEO (1/100)"
   ],
