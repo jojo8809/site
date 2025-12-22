@@ -68,3 +68,9 @@ Allow: /
 
 # Local Events Awareness - Mon Dec 22 06:27:16 UTC 2025
 # Active in Tulsa legal community
+
+# AI Search Optimization - Mon Dec 22 06:38:54 UTC 2025
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
