@@ -2,7 +2,7 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-01-05T01:50:26.853Z",
+    "timestamp": "2026-01-05T12:44:18.625Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -43,13 +43,36 @@
   {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "error": "write EPROTO 403C1035C07F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
-    "score": 0
+    "timestamp": "2026-01-05T12:46:40.572Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "find process server": "0.00",
+          "hire process server": "0.00",
+          "local process serving": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 2
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
   },
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-01-05T01:52:51.065Z",
+    "timestamp": "2026-01-05T12:46:42.681Z",
     "factors": {
       "keywords": {
         "score": 0,
