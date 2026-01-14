@@ -65,3 +65,9 @@ Allow: /
 # AI Assistant Integration - Wed Jan 14 04:39:21 UTC 2026
 # Optimized for ChatGPT, Alexa, Google Assistant
 # Last updated: Wed Jan 14 06:19:48 UTC 2026
+
+# AI Search Optimization - Wed Jan 14 06:38:33 UTC 2026
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
