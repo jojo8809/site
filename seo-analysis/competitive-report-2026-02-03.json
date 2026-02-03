@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-02-03T02:06:45.200Z",
+  "timestamp": "2026-02-03T13:00:23.761Z",
   "competitorCount": 5,
   "averageScore": 1,
   "topCompetitor": {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-02-03T02:04:18.693Z",
+    "timestamp": "2026-02-03T12:57:59.877Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -34,7 +34,7 @@
   "weakestCompetitor": {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-02-03T02:04:18.693Z",
+    "timestamp": "2026-02-03T12:57:59.877Z",
     "factors": {
       "keywords": {
         "score": 0,
