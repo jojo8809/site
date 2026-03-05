@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-03-05T02:03:44.480Z",
+  "timestamp": "2026-03-05T13:00:52.494Z",
   "competitorCount": 5,
   "averageScore": 1,
   "topCompetitor": {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-03-05T02:01:19.294Z",
+    "timestamp": "2026-03-05T12:58:23.679Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -34,7 +34,7 @@
   "weakestCompetitor": {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-03-05T02:01:19.294Z",
+    "timestamp": "2026-03-05T12:58:23.679Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -62,7 +62,6 @@
   },
   "opportunities": [
     "TulsaProcessServers.com has weak SEO (1/100)",
-    "ProcessServerDirectory.com has weak SEO (1/100)",
     "ServeNow.com has weak SEO (1/100)"
   ],
   "threats": []
