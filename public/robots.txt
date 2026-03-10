@@ -73,3 +73,9 @@ Allow: /
 
 # Voice Search Optimization - Tue Mar 10 16:53:58 UTC 2026
 # Optimized for Alexa, Google Assistant, Siri
+
+# AI Search Optimization - Tue Mar 10 18:54:38 UTC 2026
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
