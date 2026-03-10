@@ -70,3 +70,6 @@ Allow: /
 
 # AI Assistant Integration - Tue Mar 10 16:47:13 UTC 2026
 # Optimized for ChatGPT, Alexa, Google Assistant
+
+# Voice Search Optimization - Tue Mar 10 16:53:58 UTC 2026
+# Optimized for Alexa, Google Assistant, Siri
