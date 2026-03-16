@@ -2,7 +2,7 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-03-16T02:23:53.174Z",
+    "timestamp": "2026-03-16T13:09:55.290Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -43,13 +43,36 @@
   {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "error": "Timeout",
-    "score": 0
+    "timestamp": "2026-03-16T13:12:15.866Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "find process server": "0.00",
+          "hire process server": "0.00",
+          "local process serving": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 2
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
   },
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-03-16T02:26:30.980Z",
+    "timestamp": "2026-03-16T13:12:18.025Z",
     "factors": {
       "keywords": {
         "score": 0,
