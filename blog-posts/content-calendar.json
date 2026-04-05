@@ -1,50 +1,43 @@
 [
   {
-    "date": "2026-04-04",
-    "template": "local",
-    "topic": "Subpoena Delivery",
-    "keyword": "legal papers served collinsville oklahoma",
-    "title": "Subpoena Delivery in {CITY}, {STATE}"
-  },
-  {
     "date": "2026-04-05",
-    "template": "informational",
-    "topic": "Divorce Papers Service",
-    "keyword": "court document delivery sapulpa oklahoma",
-    "title": "Everything You Need to Know About {TOPIC}"
+    "template": "comparison",
+    "topic": "Subpoena Delivery",
+    "keyword": "experienced process server owasso oklahoma",
+    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
   },
   {
     "date": "2026-04-06",
     "template": "howto",
-    "topic": "Subpoena Delivery",
-    "keyword": "eviction notice delivery bixby oklahoma",
+    "topic": "Legal Document Delivery",
+    "keyword": "emergency process server tulsa oklahoma",
     "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-07",
-    "template": "comparison",
-    "topic": "Divorce Papers Service",
-    "keyword": "fastest process server tulsa oklahoma",
-    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
+    "template": "local",
+    "topic": "Summons Service",
+    "keyword": "same day legal document delivery tulsa",
+    "title": "Summons Service in {CITY}, {STATE}"
   },
   {
     "date": "2026-04-08",
-    "template": "howto",
-    "topic": "Summons Service",
+    "template": "informational",
+    "topic": "Legal Document Delivery",
     "keyword": "eviction notice delivery bixby oklahoma",
-    "title": "How to {ACTION} in {LOCATION}"
+    "title": "Everything You Need to Know About {TOPIC}"
   },
   {
     "date": "2026-04-09",
     "template": "informational",
     "topic": "Restraining Order Service",
-    "keyword": "summons service jenks oklahoma",
+    "keyword": "affordable process serving tulsa county",
     "title": "Everything You Need to Know About {TOPIC}"
   },
   {
     "date": "2026-04-10",
     "template": "comparison",
-    "topic": "Restraining Order Service",
+    "topic": "Divorce Papers Service",
     "keyword": "court document delivery sapulpa oklahoma",
     "title": "{OPTION1} vs {OPTION2}: Which is Better?"
   },
@@ -52,161 +45,168 @@
     "date": "2026-04-11",
     "template": "local",
     "topic": "Process Serving",
-    "keyword": "fastest process server tulsa oklahoma",
+    "keyword": "weekend process serving tulsa county",
     "title": "Process Serving in {CITY}, {STATE}"
   },
   {
     "date": "2026-04-12",
-    "template": "comparison",
-    "topic": "Subpoena Delivery",
-    "keyword": "eviction notice delivery bixby oklahoma",
-    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
+    "template": "howto",
+    "topic": "Restraining Order Service",
+    "keyword": "legal papers served collinsville oklahoma",
+    "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-13",
-    "template": "comparison",
-    "topic": "Legal Document Delivery",
-    "keyword": "experienced process server owasso oklahoma",
-    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
+    "template": "howto",
+    "topic": "Divorce Papers Service",
+    "keyword": "weekend process serving tulsa county",
+    "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-14",
-    "template": "comparison",
+    "template": "howto",
     "topic": "Bankruptcy Papers Service",
-    "keyword": "summons service jenks oklahoma",
-    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
+    "keyword": "professional process server broken arrow",
+    "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-15",
-    "template": "local",
-    "topic": "Legal Document Delivery",
-    "keyword": "bonded process server sapulpa oklahoma",
-    "title": "Legal Document Delivery in {CITY}, {STATE}"
+    "template": "comparison",
+    "topic": "Restraining Order Service",
+    "keyword": "fastest process server tulsa oklahoma",
+    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
   },
   {
     "date": "2026-04-16",
     "template": "howto",
-    "topic": "Process Serving",
-    "keyword": "legal papers served collinsville oklahoma",
+    "topic": "Legal Document Delivery",
+    "keyword": "subpoena delivery glenpool tulsa",
     "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-17",
     "template": "informational",
     "topic": "Eviction Notice Delivery",
-    "keyword": "process serving cost tulsa county",
+    "keyword": "court document delivery sapulpa oklahoma",
     "title": "Everything You Need to Know About {TOPIC}"
   },
   {
     "date": "2026-04-18",
-    "template": "howto",
-    "topic": "Small Claims Service",
-    "keyword": "summons service jenks oklahoma",
-    "title": "How to {ACTION} in {LOCATION}"
-  },
-  {
-    "date": "2026-04-19",
     "template": "informational",
-    "topic": "Eviction Notice Delivery",
-    "keyword": "summons service jenks oklahoma",
+    "topic": "Divorce Papers Service",
+    "keyword": "affordable process serving tulsa county",
     "title": "Everything You Need to Know About {TOPIC}"
   },
   {
+    "date": "2026-04-19",
+    "template": "howto",
+    "topic": "Small Claims Service",
+    "keyword": "insured legal document delivery tulsa",
+    "title": "How to {ACTION} in {LOCATION}"
+  },
+  {
     "date": "2026-04-20",
-    "template": "comparison",
-    "topic": "Court Paper Service",
-    "keyword": "fastest process server tulsa oklahoma",
-    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
+    "template": "howto",
+    "topic": "Subpoena Delivery",
+    "keyword": "eviction notice delivery bixby oklahoma",
+    "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-21",
     "template": "local",
-    "topic": "Court Paper Service",
-    "keyword": "fastest process server tulsa oklahoma",
-    "title": "Court Paper Service in {CITY}, {STATE}"
+    "topic": "Small Claims Service",
+    "keyword": "small claims process server owasso",
+    "title": "Small Claims Service in {CITY}, {STATE}"
   },
   {
     "date": "2026-04-22",
-    "template": "local",
-    "topic": "Legal Document Delivery",
-    "keyword": "court document delivery sapulpa oklahoma",
-    "title": "Legal Document Delivery in {CITY}, {STATE}"
+    "template": "howto",
+    "topic": "Process Serving",
+    "keyword": "small claims process server owasso",
+    "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-23",
-    "template": "local",
-    "topic": "Court Paper Service",
-    "keyword": "same day legal document delivery tulsa",
-    "title": "Court Paper Service in {CITY}, {STATE}"
+    "template": "informational",
+    "topic": "Legal Document Delivery",
+    "keyword": "divorce papers service tulsa rush",
+    "title": "Everything You Need to Know About {TOPIC}"
   },
   {
     "date": "2026-04-24",
     "template": "local",
-    "topic": "Summons Service",
-    "keyword": "same day legal document delivery tulsa",
-    "title": "Summons Service in {CITY}, {STATE}"
+    "topic": "Legal Document Delivery",
+    "keyword": "subpoena delivery glenpool tulsa",
+    "title": "Legal Document Delivery in {CITY}, {STATE}"
   },
   {
     "date": "2026-04-25",
-    "template": "comparison",
+    "template": "howto",
     "topic": "Summons Service",
-    "keyword": "divorce papers service tulsa rush",
-    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
+    "keyword": "process serving cost tulsa county",
+    "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-26",
-    "template": "informational",
+    "template": "howto",
     "topic": "Court Paper Service",
-    "keyword": "same day legal document delivery tulsa",
-    "title": "Everything You Need to Know About {TOPIC}"
+    "keyword": "fastest process server tulsa oklahoma",
+    "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-27",
     "template": "howto",
     "topic": "Eviction Notice Delivery",
-    "keyword": "subpoena delivery glenpool tulsa",
+    "keyword": "professional process server broken arrow",
     "title": "How to {ACTION} in {LOCATION}"
   },
   {
     "date": "2026-04-28",
-    "template": "informational",
-    "topic": "Subpoena Delivery",
-    "keyword": "weekend process serving tulsa county",
-    "title": "Everything You Need to Know About {TOPIC}"
+    "template": "local",
+    "topic": "Eviction Notice Delivery",
+    "keyword": "emergency process server tulsa oklahoma",
+    "title": "Eviction Notice Delivery in {CITY}, {STATE}"
   },
   {
     "date": "2026-04-29",
     "template": "local",
-    "topic": "Small Claims Service",
-    "keyword": "licensed process server broken arrow",
-    "title": "Small Claims Service in {CITY}, {STATE}"
+    "topic": "Court Paper Service",
+    "keyword": "weekend process serving tulsa county",
+    "title": "Court Paper Service in {CITY}, {STATE}"
   },
   {
     "date": "2026-04-30",
     "template": "comparison",
-    "topic": "Summons Service",
-    "keyword": "fastest process server tulsa oklahoma",
+    "topic": "Restraining Order Service",
+    "keyword": "weekend process serving tulsa county",
     "title": "{OPTION1} vs {OPTION2}: Which is Better?"
   },
   {
     "date": "2026-05-01",
+    "template": "howto",
+    "topic": "Restraining Order Service",
+    "keyword": "court document delivery sapulpa oklahoma",
+    "title": "How to {ACTION} in {LOCATION}"
+  },
+  {
+    "date": "2026-05-02",
     "template": "comparison",
     "topic": "Bankruptcy Papers Service",
+    "keyword": "divorce papers service tulsa rush",
+    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
+  },
+  {
+    "date": "2026-05-03",
+    "template": "comparison",
+    "topic": "Court Paper Service",
     "keyword": "fastest process server tulsa oklahoma",
     "title": "{OPTION1} vs {OPTION2}: Which is Better?"
   },
   {
-    "date": "2026-05-02",
-    "template": "local",
-    "topic": "Divorce Papers Service",
-    "keyword": "professional process server broken arrow",
-    "title": "Divorce Papers Service in {CITY}, {STATE}"
-  },
-  {
-    "date": "2026-05-03",
-    "template": "informational",
-    "topic": "Restraining Order Service",
-    "keyword": "legal papers served collinsville oklahoma",
-    "title": "Everything You Need to Know About {TOPIC}"
+    "date": "2026-05-04",
+    "template": "comparison",
+    "topic": "Eviction Notice Delivery",
+    "keyword": "eviction notice delivery bixby oklahoma",
+    "title": "{OPTION1} vs {OPTION2}: Which is Better?"
   }
 ]
