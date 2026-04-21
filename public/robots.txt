@@ -55,3 +55,6 @@ User-agent: ChatGPT-User
 Allow: /
 User-agent: Claude-Web
 Allow: /
+# Voice Search Keywords Updated: Tue Apr 21 02:56:34 UTC 2026
+# Oklahoma process server, legal document delivery
+# Same day service, licensed process servers
