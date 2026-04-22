@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-04-22T02:32:56.668Z",
+  "timestamp": "2026-04-22T13:27:37.722Z",
   "competitorCount": 5,
   "averageScore": 1,
   "topCompetitor": {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "timestamp": "2026-04-22T02:32:52.545Z",
+    "timestamp": "2026-04-22T13:27:33.598Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -34,7 +34,7 @@
   "weakestCompetitor": {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "timestamp": "2026-04-22T02:32:52.545Z",
+    "timestamp": "2026-04-22T13:27:33.598Z",
     "factors": {
       "keywords": {
         "score": 0,
