@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-05-01T02:59:03.353Z",
+  "competitorCount": 5,
+  "averageScore": 1,
+  "topCompetitor": {
+    "name": "ProcessServerDirectory.com",
+    "url": "https://processserverdirectory.com",
+    "timestamp": "2026-05-01T02:58:59.203Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "find process server": "0.00",
+          "hire process server": "0.00",
+          "local process serving": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 2
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "weakestCompetitor": {
+    "name": "ProcessServerDirectory.com",
+    "url": "https://processserverdirectory.com",
+    "timestamp": "2026-05-01T02:58:59.203Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "find process server": "0.00",
+          "hire process server": "0.00",
+          "local process serving": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 2
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "opportunities": [
+    "ProcessServerDirectory.com has weak SEO (1/100)",
+    "ServeNow.com has weak SEO (1/100)"
+  ],
+  "threats": []
+}
