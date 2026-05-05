@@ -1,23 +1,23 @@
 {
-  "timestamp": "2026-05-05T02:41:30.499Z",
+  "timestamp": "2026-05-05T13:54:37.005Z",
   "competitorCount": 5,
   "averageScore": 1,
   "topCompetitor": {
-    "name": "ProcessServerDirectory.com",
-    "url": "https://processserverdirectory.com",
-    "timestamp": "2026-05-05T02:41:26.390Z",
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-05-05T13:54:35.003Z",
     "factors": {
       "keywords": {
         "score": 0,
         "density": {
-          "find process server": "0.00",
-          "hire process server": "0.00",
-          "local process serving": "0.00"
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
         }
       },
       "contentLength": {
         "score": 10,
-        "wordCount": 2
+        "wordCount": 1
       },
       "schema": {
         "score": 0,
@@ -32,21 +32,21 @@
     ]
   },
   "weakestCompetitor": {
-    "name": "ProcessServerDirectory.com",
-    "url": "https://processserverdirectory.com",
-    "timestamp": "2026-05-05T02:41:26.390Z",
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-05-05T13:54:35.003Z",
     "factors": {
       "keywords": {
         "score": 0,
         "density": {
-          "find process server": "0.00",
-          "hire process server": "0.00",
-          "local process serving": "0.00"
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
         }
       },
       "contentLength": {
         "score": 10,
-        "wordCount": 2
+        "wordCount": 1
       },
       "schema": {
         "score": 0,
@@ -61,7 +61,6 @@
     ]
   },
   "opportunities": [
-    "ProcessServerDirectory.com has weak SEO (1/100)",
     "ServeNow.com has weak SEO (1/100)"
   ],
   "threats": []
