@@ -20,13 +20,13 @@
   {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "error": "write EPROTO 409C9C2E6C7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
+    "error": "write EPROTO 40DC2B76D37F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
     "score": 0
   },
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-05-11T03:29:40.388Z",
+    "timestamp": "2026-05-11T14:50:33.064Z",
     "factors": {
       "keywords": {
         "score": 0,

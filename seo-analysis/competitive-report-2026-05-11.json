@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-11T03:29:42.391Z",
+  "timestamp": "2026-05-11T14:50:35.067Z",
   "competitorCount": 5,
   "averageScore": 1,
   "topCompetitor": {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-05-11T03:29:40.388Z",
+    "timestamp": "2026-05-11T14:50:33.064Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -34,7 +34,7 @@
   "weakestCompetitor": {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-05-11T03:29:40.388Z",
+    "timestamp": "2026-05-11T14:50:33.064Z",
     "factors": {
       "keywords": {
         "score": 0,
