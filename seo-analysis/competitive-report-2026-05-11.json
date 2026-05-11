@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-05-11T03:29:42.391Z",
+  "competitorCount": 5,
+  "averageScore": 1,
+  "topCompetitor": {
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-05-11T03:29:40.388Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 1
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "weakestCompetitor": {
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-05-11T03:29:40.388Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 1
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "opportunities": [
+    "ServeNow.com has weak SEO (1/100)"
+  ],
+  "threats": []
+}
