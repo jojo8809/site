@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-05-16T02:51:35.738Z",
+  "timestamp": "2026-05-16T13:21:52.659Z",
   "competitorCount": 5,
   "averageScore": 2,
   "topCompetitor": {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-05-16T02:51:33.735Z",
+    "timestamp": "2026-05-16T13:21:50.656Z",
     "factors": {
       "titleTag": {
         "content": "301 Moved Permanently",
@@ -45,7 +45,7 @@
   "weakestCompetitor": {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-05-16T02:49:11.029Z",
+    "timestamp": "2026-05-16T13:19:29.479Z",
     "factors": {
       "keywords": {
         "score": 0,
