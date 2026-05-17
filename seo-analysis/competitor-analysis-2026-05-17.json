@@ -2,7 +2,7 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "timestamp": "2026-05-17T02:57:48.938Z",
+    "timestamp": "2026-05-17T13:17:54.268Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -43,36 +43,13 @@
   {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "timestamp": "2026-05-17T03:00:08.291Z",
-    "factors": {
-      "keywords": {
-        "score": 0,
-        "density": {
-          "find process server": "0.00",
-          "hire process server": "0.00",
-          "local process serving": "0.00"
-        }
-      },
-      "contentLength": {
-        "score": 10,
-        "wordCount": 2
-      },
-      "schema": {
-        "score": 0,
-        "hasSchema": false
-      }
-    },
-    "score": 1,
-    "recommendations": [
-      "Increase keyword density and placement",
-      "Expand content length to 300-2000 words",
-      "Implement structured data and schema markup"
-    ]
+    "error": "write EPROTO 40FC4A5DFA7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
+    "score": 0
   },
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-05-17T03:00:10.335Z",
+    "timestamp": "2026-05-17T13:20:19.448Z",
     "factors": {
       "titleTag": {
         "content": "301 Moved Permanently",
