@@ -3,8 +3,8 @@
   "@type": "LocalBusiness",
   "name": "Just Legal Solutions",
   "url": "https://justlegalsolutions.org",
-  "dateModified": "2026-05-21T12:08:28.597Z",
-  "description": "Professional process serving in Oklahoma. Afternoon rush service - same-day delivery still possible!",
+  "dateModified": "2026-05-22T11:38:28.581Z",
+  "description": "Professional process serving in Oklahoma. Early morning process serving available - get ahead of your legal schedule!",
   "aggregateRating": {
     "@type": "AggregateRating",
     "ratingValue": 4.9,
@@ -15,7 +15,7 @@
     {
       "@type": "Service",
       "name": "Same-Day Process Serving",
-      "description": "Urgent document delivery available now. Current response time: 15 minutes",
+      "description": "Urgent document delivery available now. Current response time: 14 minutes",
       "offers": {
         "@type": "Offer",
         "availability": "https://schema.org/InStock"
