@@ -52,3 +52,9 @@ Sitemap: https://justlegalsolutions.org/sitemap-news.xml
 
 # AI Assistant Integration - Tue Jun  2 19:42:38 UTC 2026
 # Optimized for ChatGPT, Alexa, Google Assistant
+
+# AI Search Optimization - Tue Jun  2 20:52:24 UTC 2026
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
