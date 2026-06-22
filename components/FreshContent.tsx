@@ -5,33 +5,33 @@ export default function FreshContent() {
   return (
     <>
     
-{/* Generated: Sunday, June 21, 2026 */}
-<div className="fresh-content" data-updated="2026-06-21T11:39:13.207Z">
+{/* Generated: Monday, June 22, 2026 */}
+<div className="fresh-content" data-updated="2026-06-22T14:28:47.599Z">
   <div className="urgency-banner bg-red-50 border border-red-200 p-4 mb-6">
     <div className="flex items-center">
       <span className="text-red-500 text-xl mr-2">⚡</span>
       <div>
-        <div className="font-semibold text-red-800">Live Update - Sunday, June 21, 2026</div>
-        <div className="text-sm text-red-600">Early morning process serving available - get ahead of your legal schedule!</div>
+        <div className="font-semibold text-red-800">Live Update - Monday, June 22, 2026</div>
+        <div className="text-sm text-red-600">Afternoon rush service - same-day delivery still possible!</div>
       </div>
     </div>
   </div>
   
   <div className="live-stats grid grid-cols-4 gap-4 mb-8">
     <div className="text-center">
-      <div className="text-2xl font-bold text-blue-600">3,242</div>
+      <div className="text-2xl font-bold text-blue-600">3,244</div>
       <div className="text-sm text-gray-600">Documents Served</div>
     </div>
     <div className="text-center">
-      <div className="text-2xl font-bold text-green-600">1,012</div>
+      <div className="text-2xl font-bold text-green-600">1,013</div>
       <div className="text-sm text-gray-600">Happy Clients</div>
     </div>
     <div className="text-center">
-      <div className="text-2xl font-bold text-purple-600">14 minutes</div>
+      <div className="text-2xl font-bold text-purple-600">18 minutes</div>
       <div className="text-sm text-gray-600">Avg Response</div>
     </div>
     <div className="text-center">
-      <div className="text-2xl font-bold text-orange-600">5</div>
+      <div className="text-2xl font-bold text-orange-600">2</div>
       <div className="text-sm text-gray-600">Available Now</div>
     </div>
   </div>
