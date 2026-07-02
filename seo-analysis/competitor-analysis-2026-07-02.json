@@ -2,7 +2,7 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "error": "write EPROTO 40FCCA403F7F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n",
+    "error": "write EPROTO 40DCF2A4887F0000:error:0A000458:SSL routines:ssl3_read_bytes:tlsv1 unrecognized name:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 112\n",
     "score": 0
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "timestamp": "2026-07-02T03:31:25.135Z",
+    "timestamp": "2026-07-02T13:59:33.725Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -49,7 +49,7 @@
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-07-02T03:31:27.192Z",
+    "timestamp": "2026-07-02T13:59:35.870Z",
     "factors": {
       "titleTag": {
         "content": "301 Moved Permanently",
