@@ -1,0 +1,80 @@
+{
+  "timestamp": "2026-07-16T02:31:41.523Z",
+  "competitorCount": 5,
+  "averageScore": 2,
+  "topCompetitor": {
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-07-16T02:31:39.520Z",
+    "factors": {
+      "titleTag": {
+        "content": "301 Moved Permanently",
+        "score": 0,
+        "length": 21
+      },
+      "h1Tag": {
+        "content": "301 Moved Permanently",
+        "score": 20
+      },
+      "keywords": {
+        "score": 0,
+        "density": {
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 7
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 5,
+    "recommendations": [
+      "Optimize title tag with primary keywords",
+      "Optimize H1 tag with location and service keywords",
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "weakestCompetitor": {
+    "name": "TulsaProcessServers.com",
+    "url": "https://tulsaprocessservers.com",
+    "timestamp": "2026-07-16T02:29:17.764Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "process server tulsa": "0.00",
+          "legal document delivery": "0.00",
+          "tulsa county process serving": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 1
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "opportunities": [
+    "TulsaProcessServers.com has weak SEO (1/100)",
+    "ProcessServerDirectory.com has weak SEO (1/100)",
+    "ServeNow.com has weak SEO (5/100)"
+  ],
+  "threats": []
+}
