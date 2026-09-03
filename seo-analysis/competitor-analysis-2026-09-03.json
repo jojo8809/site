@@ -1,0 +1,89 @@
+[
+  {
+    "name": "TulsaProcessServers.com",
+    "url": "https://tulsaprocessservers.com",
+    "timestamp": "2026-09-03T03:01:32.879Z",
+    "factors": {
+      "keywords": {
+        "score": 0,
+        "density": {
+          "process server tulsa": "0.00",
+          "legal document delivery": "0.00",
+          "tulsa county process serving": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 1
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 1,
+    "recommendations": [
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  {
+    "name": "OklahomaProcessServing.com",
+    "url": "https://oklahomaprocessserving.com",
+    "error": "getaddrinfo ENOTFOUND oklahomaprocessserving.com",
+    "score": 0
+  },
+  {
+    "name": "LegalProcessServers.net",
+    "url": "https://legalprocessservers.net",
+    "error": "connect ETIMEDOUT 160.153.95.220:443",
+    "score": 0
+  },
+  {
+    "name": "ProcessServerDirectory.com",
+    "url": "https://processserverdirectory.com",
+    "error": "write EPROTO 40ECC9318F7F0000:error:0A000438:SSL routines:ssl3_read_bytes:tlsv1 alert internal error:../deps/openssl/openssl/ssl/record/rec_layer_s3.c:1605:SSL alert number 80\n",
+    "score": 0
+  },
+  {
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-09-03T03:03:54.200Z",
+    "factors": {
+      "titleTag": {
+        "content": "301 Moved Permanently",
+        "score": 0,
+        "length": 21
+      },
+      "h1Tag": {
+        "content": "301 Moved Permanently",
+        "score": 20
+      },
+      "keywords": {
+        "score": 0,
+        "density": {
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 7
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 5,
+    "recommendations": [
+      "Optimize title tag with primary keywords",
+      "Optimize H1 tag with location and service keywords",
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  }
+]
