@@ -1,0 +1,89 @@
+{
+  "timestamp": "2026-09-05T03:05:12.890Z",
+  "competitorCount": 5,
+  "averageScore": 5,
+  "topCompetitor": {
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-09-05T03:05:10.886Z",
+    "factors": {
+      "titleTag": {
+        "content": "301 Moved Permanently",
+        "score": 0,
+        "length": 21
+      },
+      "h1Tag": {
+        "content": "301 Moved Permanently",
+        "score": 20
+      },
+      "keywords": {
+        "score": 0,
+        "density": {
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 7
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 5,
+    "recommendations": [
+      "Optimize title tag with primary keywords",
+      "Optimize H1 tag with location and service keywords",
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "weakestCompetitor": {
+    "name": "ServeNow.com",
+    "url": "https://servenow.com",
+    "timestamp": "2026-09-05T03:05:10.886Z",
+    "factors": {
+      "titleTag": {
+        "content": "301 Moved Permanently",
+        "score": 0,
+        "length": 21
+      },
+      "h1Tag": {
+        "content": "301 Moved Permanently",
+        "score": 20
+      },
+      "keywords": {
+        "score": 0,
+        "density": {
+          "same day process serving": "0.00",
+          "emergency process server": "0.00",
+          "rush legal service": "0.00"
+        }
+      },
+      "contentLength": {
+        "score": 10,
+        "wordCount": 7
+      },
+      "schema": {
+        "score": 0,
+        "hasSchema": false
+      }
+    },
+    "score": 5,
+    "recommendations": [
+      "Optimize title tag with primary keywords",
+      "Optimize H1 tag with location and service keywords",
+      "Increase keyword density and placement",
+      "Expand content length to 300-2000 words",
+      "Implement structured data and schema markup"
+    ]
+  },
+  "opportunities": [
+    "ServeNow.com has weak SEO (5/100)"
+  ],
+  "threats": []
+}
