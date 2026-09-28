@@ -5,21 +5,21 @@ export default function FreshContent() {
   return (
     <>
     
-{/* Generated: Sunday, September 27, 2026 */}
-<div className="fresh-content" data-updated="2026-09-27T14:27:11.652Z">
+{/* Generated: Monday, September 28, 2026 */}
+<div className="fresh-content" data-updated="2026-09-28T17:12:24.732Z">
   <div className="urgency-banner bg-red-50 border border-red-200 p-4 mb-6">
     <div className="flex items-center">
       <span className="text-red-500 text-xl mr-2">⚡</span>
       <div>
-        <div className="font-semibold text-red-800">Live Update - Sunday, September 27, 2026</div>
-        <div className="text-sm text-red-600">Afternoon rush service - same-day delivery still possible!</div>
+        <div className="font-semibold text-red-800">Live Update - Monday, September 28, 2026</div>
+        <div className="text-sm text-red-600">Evening consultations available - plan tomorrow's process serving now!</div>
       </div>
     </div>
   </div>
   
   <div className="live-stats grid grid-cols-4 gap-4 mb-8">
     <div className="text-center">
-      <div className="text-2xl font-bold text-blue-600">3,468</div>
+      <div className="text-2xl font-bold text-blue-600">3,470</div>
       <div className="text-sm text-gray-600">Documents Served</div>
     </div>
     <div className="text-center">
@@ -27,11 +27,11 @@ export default function FreshContent() {
       <div className="text-sm text-gray-600">Happy Clients</div>
     </div>
     <div className="text-center">
-      <div className="text-2xl font-bold text-purple-600">18 minutes</div>
+      <div className="text-2xl font-bold text-purple-600">12 minutes</div>
       <div className="text-sm text-gray-600">Avg Response</div>
     </div>
     <div className="text-center">
-      <div className="text-2xl font-bold text-orange-600">2</div>
+      <div className="text-2xl font-bold text-orange-600">4</div>
       <div className="text-sm text-gray-600">Available Now</div>
     </div>
   </div>
