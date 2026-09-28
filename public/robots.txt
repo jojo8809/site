@@ -61,3 +61,9 @@ Sitemap: https://justlegalsolutions.org/sitemap-news.xml
 
 # Competitive Intelligence Update - Mon Sep 28 19:32:55 UTC 2026
 # Market leader in Oklahoma process serving
+
+# AI Search Optimization - Mon Sep 28 23:01:54 UTC 2026
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
