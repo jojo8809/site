@@ -2,7 +2,7 @@
   {
     "name": "TulsaProcessServers.com",
     "url": "https://tulsaprocessservers.com",
-    "error": "Client network socket disconnected before secure TLS connection was established",
+    "error": "read ECONNRESET",
     "score": 0
   },
   {
@@ -20,7 +20,7 @@
   {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "timestamp": "2026-10-01T04:19:52.989Z",
+    "timestamp": "2026-10-01T18:05:48.679Z",
     "factors": {
       "keywords": {
         "score": 0,
@@ -49,7 +49,7 @@
   {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-10-01T04:19:55.102Z",
+    "timestamp": "2026-10-01T18:05:50.749Z",
     "factors": {
       "titleTag": {
         "content": "301 Moved Permanently",
