@@ -1,11 +1,11 @@
 {
-  "timestamp": "2026-10-16T03:16:33.057Z",
+  "timestamp": "2026-10-16T16:09:34.558Z",
   "competitorCount": 5,
   "averageScore": 3,
   "topCompetitor": {
     "name": "ServeNow.com",
     "url": "https://servenow.com",
-    "timestamp": "2026-10-16T03:16:31.054Z",
+    "timestamp": "2026-10-16T16:09:32.555Z",
     "factors": {
       "titleTag": {
         "content": "301 Moved Permanently",
@@ -45,7 +45,7 @@
   "weakestCompetitor": {
     "name": "ProcessServerDirectory.com",
     "url": "https://processserverdirectory.com",
-    "timestamp": "2026-10-16T03:16:28.898Z",
+    "timestamp": "2026-10-16T16:09:30.416Z",
     "factors": {
       "keywords": {
         "score": 0,
