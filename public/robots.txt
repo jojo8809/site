@@ -46,24 +46,3 @@ Crawl-delay: 1
 Sitemap: https://justlegalsolutions.org/sitemap.xml
 Sitemap: https://justlegalsolutions.org/sitemap-images.xml
 Sitemap: https://justlegalsolutions.org/sitemap-news.xml
-
-# Voice Search Optimization - Sun Nov 15 20:47:40 UTC 2026
-# Optimized for Alexa, Google Assistant, Siri
-
-# AI Search Optimization - Sun Nov 15 22:36:09 UTC 2026
-User-agent: ChatGPT-User
-Allow: /
-User-agent: Claude-Web
-Allow: /
-
-# Emerging AI Platform Ready - Sun Nov 15 23:37:14 UTC 2026
-# Future-proofed for next-gen AI systems
-
-# AI Assistant Integration - Sun Nov 15 23:38:32 UTC 2026
-# Optimized for ChatGPT, Alexa, Google Assistant
-
-# Emerging AI Platform Ready - Mon Nov 16 03:31:55 UTC 2026
-# Future-proofed for next-gen AI systems
-
-# AI Assistant Integration - Mon Nov 16 03:51:32 UTC 2026
-# Optimized for ChatGPT, Alexa, Google Assistant
