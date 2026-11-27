@@ -52,3 +52,9 @@ Sitemap: https://justlegalsolutions.org/sitemap-news.xml
 
 # Emerging AI Platform Ready - Fri Nov 27 19:13:15 UTC 2026
 # Future-proofed for next-gen AI systems
+
+# AI Search Optimization - Fri Nov 27 20:50:31 UTC 2026
+User-agent: ChatGPT-User
+Allow: /
+User-agent: Claude-Web
+Allow: /
